@@ -24,7 +24,7 @@ local function loadPvp()
 end
 
 local function loadPve()
-    loadRemoteScript("https://raw.githubusercontent.com/Turtl31/Roblox-Dexter-Scripts-A/main/brm5-pve/main.lua")
+    loadRemoteScript("https://raw.githubusercontent.com/Turtl31/Roblox-Dexter-Scripts-A/main/brm5-pvp/main.lua")
 end
 
 if PVP_PLACE_IDS[placeId] then
